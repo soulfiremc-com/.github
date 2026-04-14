@@ -1,13 +1,13 @@
 ## Hi 👋, we are the SoulFire Team
 
-[![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://enderdash.com/discord)
+[![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/vHgRd6YZmH) [![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/alexprogrammerde)
 
-🙋‍️ Who we are - SoulFire is the modern Minecraft server management panel. One dashboard for all your servers, deep plugin integrations, and team collaboration.
+🙋‍️ Who we are - SoulFire is an advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development. 
 
-🌈 Chat with us - Join our [Discord Community](https://enderdash.com/discord)
+🌈 Chat with us - Join our [Discord Community](https://soulfiremc.com/discord)
 
-👩‍💻 Useful resources - [Website](https://enderdash.com), [Documentation](https://enderdash.com/docs) and [Javadocs](https://jd.enderdash.com)
+👩‍💻 Useful resources - [Website](https://soulfiremc.com), [Documentation](https://soulfiremc.com/docs) and [Javadocs](https://jd.soulfiremc.com)
 
-🍿 Fun facts - EnderDash actually uses WebRTC to talk to your backend.
+🍿 Fun facts - SoulFire is actually based on the Fabric Minecraft mod loader system.
 
-🧙 Remember, EnderDash is not just another panel, it runs inside your server as a plugin and can do things no panel has ever done before.
+🧙 Remember, SoulFire is not just for bot attacks. Test your servers, automate tasks or run cool bot experiments.

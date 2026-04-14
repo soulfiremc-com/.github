@@ -1,8 +1,6 @@
-<img align="right" src="https://github.com/soulfiremc-com/SoulFire/blob/main/mod/src/main/resources/icons/icon.png?raw=true" height="150" width="150">
+## Hi 👋, we are the SoulFire Team
 
 [![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/vHgRd6YZmH) [![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/alexprogrammerde)
-
-## Hi 👋, we are the SoulFire Team
 
 🙋‍️ Who we are - SoulFire is an advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development. 
 

@@ -1,13 +1,24 @@
-## Hi 👋, we are the SoulFire Team
+# SoulFire
 
-[![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/vHgRd6YZmH) [![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/alexprogrammerde)
+SoulFire builds Minecraft bots for server testing, automation, and development.
+Use it on servers that you own or have permission to test.
 
-🙋‍️ Who we are - SoulFire is an advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development. 
+[Documentation](https://soulfiremc.com/docs) · [Discord community](https://soulfiremc.com/discord) · [Java API reference](https://jd.soulfiremc.com) · [Support the project](https://ko-fi.com/alexprogrammerde)
 
-🌈 Chat with us - Join our [Discord Community](https://soulfiremc.com/discord)
+## Projects
 
-👩‍💻 Useful resources - [Website](https://soulfiremc.com), [Documentation](https://soulfiremc.com/docs) and [Javadocs](https://jd.soulfiremc.com)
+- [SoulFire](https://github.com/soulfiremc-com/SoulFire): server, CLI, bot engine, and TypeScript and Python SDKs.
+- [SoulFireClient](https://github.com/soulfiremc-com/SoulFireClient): desktop and browser client.
+- [soulfiremc.com](https://github.com/soulfiremc-com/soulfiremc.com): website, documentation, and executable examples.
+- [SoulFirePluginExample](https://github.com/soulfiremc-com/SoulFirePluginExample): a starting point for plugin development.
+- [SoulFireChromecast](https://github.com/soulfiremc-com/SoulFireChromecast): live metrics on a Chromecast receiver.
+- [SoulFireBypass](https://github.com/soulfiremc-com/SoulFireBypass): authentication bypass for your own test proxies.
+- [Flatpak packaging](https://github.com/soulfiremc-com/com.soulfiremc.soulfire): the organization's packaging fork.
 
-🍿 Fun facts - SoulFire is actually based on the Fabric Minecraft mod loader system.
+## Get involved
 
-🧙 Remember, SoulFire is not just for bot attacks. Test your servers, automate tasks or run cool bot experiments.
+Read the owning repository's contribution guide for local setup and tests.
+Contributions can include bug fixes, examples, documentation, and features.
+Use [support resources](https://github.com/soulfiremc-com/.github/blob/main/SUPPORT.md) to find the right place for a question or report.
+Follow the [community code of conduct](https://github.com/soulfiremc-com/.github/blob/main/CODE_OF_CONDUCT.md).
+Report vulnerabilities through the private contacts in the [security policy](https://github.com/soulfiremc-com/.github/blob/main/SECURITY.md).

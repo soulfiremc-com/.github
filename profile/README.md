@@ -1,13 +1,13 @@
-# SoulFire
+# Soulfire
 
-SoulFire builds Minecraft bots for server testing, automation, and development.
+Soulfire builds Minecraft bots for server testing, automation, and development.
 Use it on servers that you own or have permission to test.
 
 [Documentation](https://soulfiremc.com/docs) · [Discord community](https://soulfiremc.com/discord) · [Java API reference](https://jd.soulfiremc.com) · [Support the project](https://ko-fi.com/alexprogrammerde)
 
 ## Projects
 
-- [SoulFire](https://github.com/soulfiremc-com/SoulFire): server, CLI, bot engine, and TypeScript and Python SDKs.
+- [Soulfire](https://github.com/soulfiremc-com/SoulFire): server, CLI, bot engine, and TypeScript and Python SDKs.
 - [SoulFireClient](https://github.com/soulfiremc-com/SoulFireClient): desktop and browser client.
 - [soulfiremc.com](https://github.com/soulfiremc-com/soulfiremc.com): website, documentation, and executable examples.
 - [SoulFirePluginExample](https://github.com/soulfiremc-com/SoulFirePluginExample): a starting point for plugin development.

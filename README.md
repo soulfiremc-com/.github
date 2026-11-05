@@ -1,4 +1,4 @@
-# SoulFire organization community files
+# Soulfire organization community files
 
 This repository contains the public organization profile and shared contributor resources.
 GitHub uses these files for repositories without their own matching community files.

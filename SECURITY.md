@@ -1,4 +1,4 @@
-# Security policy for SoulFire projects
+# Security policy for Soulfire projects
 
 ## Report privately
 
@@ -6,7 +6,7 @@ Do not open a public issue or pull request for a security vulnerability.
 Use either confidential contact:
 
 - Email: [security@soulfiremc.com](mailto:security@soulfiremc.com).
-- Discord: send a private message to `pistonmaster` through the [SoulFire community](https://soulfiremc.com/discord).
+- Discord: send a private message to `pistonmaster` through the [Soulfire community](https://soulfiremc.com/discord).
 
 Name the affected repository, version, and component.
 Include reproduction steps or a minimal proof of concept, expected behavior, actual behavior, and potential impact.

@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible problem with SoulFire project.
+description: Report a reproducible problem with Soulfire project.
 body:
 - type: markdown
   attributes:

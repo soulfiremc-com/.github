@@ -1,4 +1,4 @@
-# Contributing to SoulFire projects
+# Contributing to Soulfire projects
 
 Contributions can include bug fixes, documentation, tests, examples, and features.
 Each repository's README and contribution guide explain its build and validation workflow.

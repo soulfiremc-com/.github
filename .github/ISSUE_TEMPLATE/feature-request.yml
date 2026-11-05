@@ -1,5 +1,5 @@
 name: Feature request
-description: Propose an improvement to SoulFire project and explain its use case.
+description: Propose an improvement to Soulfire project and explain its use case.
 body:
 - type: markdown
   attributes:

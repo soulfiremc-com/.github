@@ -1,4 +1,4 @@
-# SoulFire support
+# Soulfire support
 
 Start with the [documentation](https://soulfiremc.com/docs).
 For setup, configuration, accounts, proxies, plugins, and scripts, ask in the [Discord community](https://soulfiremc.com/discord).
@@ -10,7 +10,7 @@ Remove tokens, passwords, account data, proxy credentials, and bypass keys befor
 
 | Repository | Report or contribute |
 | --- | --- |
-| [SoulFire](https://github.com/soulfiremc-com/SoulFire) | Server, CLI, bot behavior, protocol, and TypeScript or Python SDKs |
+| [Soulfire](https://github.com/soulfiremc-com/SoulFire) | Server, CLI, bot behavior, protocol, and TypeScript or Python SDKs |
 | [SoulFireClient](https://github.com/soulfiremc-com/SoulFireClient) | Electron desktop client, browser UI, and client integration |
 | [soulfiremc.com](https://github.com/soulfiremc-com/soulfiremc.com) | Website, documentation, examples, and public guides |
 | [SoulFirePluginExample](https://github.com/soulfiremc-com/SoulFirePluginExample) | Example plugin, mixins, and plugin development setup |
